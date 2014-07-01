@@ -1,0 +1,29 @@
+{
+  "name": "angular-pizza",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ratbeard/angular-pizza",
+  "authors": [
+    "Mike Frawley <frawl021@gmail.com>"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "pizza",
+    "angular",
+    "slice",
+    "toppings",
+    "green_pepper",
+    "sausage",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-mocks": "~1.2.18"
+  }
+}

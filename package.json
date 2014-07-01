@@ -1,0 +1,11 @@
+{
+  "name": "angular-pizza",
+  "version": "0.0.0",
+  "description": "Enhance your angular apps, with pizza!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
